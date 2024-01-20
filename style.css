@@ -1,0 +1,26 @@
+.img-fluid{
+    height: 200px;
+}
+
+ 
+.card {
+    border: 1px solid #dadada;
+    box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.2s;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 5px;
+}
+
+.container{
+    border: 1px solid #dadada;
+    box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+.username{
+    float: right;
+    margin-right: 600px;
+}
